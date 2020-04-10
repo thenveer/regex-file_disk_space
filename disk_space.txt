@@ -1,0 +1,27 @@
+Filesystem     1K-blocks     Used Available Use% Mounted on
+udev              933412        0    933412   0% /dev
+tmpfs             191460     1904    189556   1% /run
+/dev/sda1      479668904 15284616 439948680   4% /
+tmpfs             957284    68500    888784   8% /dev/shm
+tmpfs               5120        4      5116   1% /run/lock
+tmpfs             957284        0    957284   0% /sys/fs/cgroup
+/dev/loop4          3456     3456         0 100% /snap/exercism/5
+/dev/loop7          3840     3840         0 100% /snap/gnome-system-monitor/127
+/dev/loop9          1024     1024         0 100% /snap/gnome-logs/93
+/dev/loop0         25600    25600         0 100% /snap/heroku/3881
+/dev/loop10         4480     4480         0 100% /snap/gnome-calculator/704
+/dev/loop5         93568    93568         0 100% /snap/core/8689
+/dev/loop8         56064    56064         0 100% /snap/core18/1668
+/dev/loop15         3840     3840         0 100% /snap/gnome-system-monitor/135
+/dev/loop16         4352     4352         0 100% /snap/gnome-calculator/544
+/dev/loop1         46080    46080         0 100% /snap/gtk-common-themes/1440
+/dev/loop14         1024     1024         0 100% /snap/gnome-logs/81
+/dev/loop3        164096   164096         0 100% /snap/gnome-3-28-1804/116
+/dev/loop2         49536    49536         0 100% /snap/gtk-common-themes/1474
+/dev/loop6         56320    56320         0 100% /snap/core18/1705
+/dev/loop11        15104    15104         0 100% /snap/gnome-characters/495
+/dev/loop13        15104    15104         0 100% /snap/gnome-characters/399
+/dev/loop12       160512   160512         0 100% /snap/gnome-3-28-1804/110
+/dev/loop17        96128    96128         0 100% /snap/core/8935
+tmpfs             191456       24    191432   1% /run/user/121
+tmpfs             191456       40    191416   1% /run/user/1000
