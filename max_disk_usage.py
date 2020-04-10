@@ -10,12 +10,9 @@ def get_file_max_disk_usage(fname):
     filesystem=[]
     with open(fname) as f:
         for i in f:
-            #print(i)
             p1= re.compile('^.*100%.*$')
             if p1.match(i):
-                #print(i)
                 Filesystem, Size, Used, Avail, Use, Mountedno =i.split()
-                #print(Filesystem)
                 filesystem.append(Filesystem)
         return filesystem
 
